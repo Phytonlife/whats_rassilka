@@ -1,0 +1,8 @@
+[2776:9044:0315/151826.278:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[16364:2300:0315/151826.415:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[16364:2300:0315/151826.420:ERROR:direct_composition_support.cc(1122)] QueryInterface to IDCompositionDevice4 failed: Интерфейс не поддерживается (0x80004002)
+[2776:9044:0315/151827.468:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/y-/r/dDan6q0gAaz.js (158)
+[16472:5560:0315/151834.725:ERROR:ssl_client_socket_impl.cc(877)] handshake failed; returned -1, SSL error code 1, net_error -101
+[16472:5560:0315/151835.228:ERROR:ssl_client_socket_impl.cc(877)] handshake failed; returned -1, SSL error code 1, net_error -101
+[16472:17212:0315/151855.332:WARNING:backend_impl.cc(1758)] Destroying invalid entry.
+[17032:612:0315/152026.677:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)

@@ -1,0 +1,5 @@
+[3896:4124:0225/113314.372:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[13692:12088:0225/113314.525:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[13692:12088:0225/113314.529:ERROR:direct_composition_support.cc(1070)] QueryInterface to IDCompositionDevice4 failed: Интерфейс не поддерживается (0x80004002)
+[16340:12824:0225/113320.520:INFO:peer_connection_dependency_factory.cc(802)] Running WebRTC with a combined Network and Worker thread.
+[16340:12824:0225/113322.488:WARNING:codec.cc(390)] Explicitly added H264 constrained baseline to list of supported formats.
